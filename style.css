@@ -1,0 +1,17 @@
+body{ background-color: rgb(243, 243, 235);}
+hr{
+    background-color: white;
+    border-style: none;
+    height: 2px;
+    width: 75%;
+}
+h1{color: rgb(253, 0, 110);}
+h3,h4{color: rgb(234, 4, 4);}
+.suggestion{
+position: absolute;
+left: 50px;
+font-size: large ;
+font-style: italic;
+background-color: aquamarine;
+padding: 30px;
+}
